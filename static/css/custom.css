@@ -1,0 +1,16 @@
+.span-element {
+    border: 2px solid black;
+}
+
+body {
+    background-color: #F1F1F1;
+}
+
+article {
+    background-color: #FFFFFF;
+    margin: 20px 0;
+}
+
+.article-style {
+    padding: 20px;
+}
